@@ -1,0 +1,108 @@
+
+body{
+   /* width: 50px;
+   height: 50px;
+   background-color: rgb(215, 250, 217);
+   border: 5 px solid red; */
+   font-family: sans-serif;
+   padding: 20px;
+   background-image: url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg");
+}
+.menu{
+    /* background-color: burlywood; */
+    width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Impact, serif;
+    text-align: center;
+    margin-top: 5px;
+}
+#head{
+    text-align: center;
+    
+    line-height: 2px;
+    font-family: Impact, serif;
+    font-size: 30px;
+    
+}
+#year{
+    font-style: italic;
+    text-align: center;
+}
+
+#r{
+    
+    background-color: brown;
+    height: 3px;
+    border-top:2px solid rgba(12, 8, 8,0.3);
+    
+}
+#imges{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: 30px;
+    line-height: 100%;
+}
+
+.item p{
+    display: inline-block;
+    line-height: 0%;
+   
+}
+.price{
+    margin-left: 413px;
+    
+}
+.price2{
+    margin-left: 380px;
+}
+.price3{
+    margin-left: 368px;
+}
+.price4{
+    margin-left: 352px;
+}
+.item p{
+    display: inline-block;
+    line-height: 0%;
+   
+}
+.pricee{
+    margin-left: 350px;
+    
+}
+.pricee2{
+    margin-left: 313px;
+}
+.pricee3{
+    margin-left: 345px;
+}
+.pricee4{
+    margin-left: 390px;
+}
+.pricee5{
+    margin-left: 405px;
+}
+a{
+    text-align: center;
+    margin-left: 40%;
+    color: black;
+}
+#para{
+    text-align: center;
+}
+a:hover {
+    color: brown;
+  }
+a:active {
+    color: brown;
+  }
